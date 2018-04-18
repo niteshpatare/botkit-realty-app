@@ -1,3 +1,6 @@
+Bot deployed at http://jolly-raincoat.glitch.me/
+Ask:- what is carpet area for an answer.
+
 # Botkit Anywhere
 
 Embed a bot in any web page or app with Botkit for the Web.
